@@ -1,8 +1,8 @@
 # onlineshop
 django ecommerce
 
-user: admin
-password: admin1234
+user: admin _ 
+  password: admin1234
 
 1. open cmd in project folder
 2. env\scripts\activate.bat
