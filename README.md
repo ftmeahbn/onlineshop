@@ -11,3 +11,4 @@ user: admin _
 5. python manage.py runserver
 
 
+![Uploading Screenshot (186).png…]()
